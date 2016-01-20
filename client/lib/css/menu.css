@@ -1,0 +1,9 @@
+.menu {
+}
+
+@media only screen and (min-width: 1700px) {
+  .menu {
+    padding-left: 0px;
+    margin-left: 0px;
+  }
+}
